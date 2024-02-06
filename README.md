@@ -1,11 +1,27 @@
-##Welcome to ShopTogether
+# ShopTogether Documentation
 
-This is a Project from a fellow student (@lu18954) and me (my uni account: @mo59578).
-Its a granded project from the university Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen.
+## Introduction
 
-This app is a shopping app, which uses groups to manage products and there members.
-It can use for birthday parties, daily life, special events and much more.
+ShopTogether is a collaborative shopping app developed by students from Westfälische Hochschule.
 
-We implemented many processes by ourself, like the biometric login (which is compactable with many operating systems, not only for android or ios).
+## Features
 
-Pictures are incoming.
+- **Group Shopping:** Collaborate with friends and family for various occasions.
+- **Efficient Product Management:** Organize and manage products seamlessly within groups.
+- **Biometric Login:** Ensure a secure login experience across different operating systems.
+
+## Screenshots
+
+*(Placeholder for incoming pictures)*
+
+## Contact Us
+
+Feel free to reach out to us with any questions or suggestions:
+
+- [Moritz Platen (GitHub)](https://github.com/MoritzPlaten)
+- [lu18954 (GitLab)](https://gitlab.w-hs.de/lu18954)
+- [mo59578 (GitLab)](https://gitlab.w-hs.de/mo59578)
+
+For inquiries directed specifically to Moritz Platen, it is preferred to use the GitHub platform.
+
+Happy Shopping with ShopTogether! 🎉
