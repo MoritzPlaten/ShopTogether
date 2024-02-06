@@ -9,6 +9,7 @@ ShopTogether is a collaborative shopping app developed by students from Westfäl
 - **Group Shopping:** Collaborate with friends and family for various occasions.
 - **Efficient Product Management:** Organize and manage products seamlessly within groups.
 - **Biometric Login:** Ensure a secure login experience across different operating systems.
+- **And many more**
 
 ## Screenshots
 
